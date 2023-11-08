@@ -1,11 +1,11 @@
 em { color: green; }
 
-th{
+{
   color: white;
   background: orange;
-}
+  
 
-th, td {
+td {
   border: 1px solid black;
 }
 
