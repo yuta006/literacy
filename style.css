@@ -1,4 +1,7 @@
 em { color: green; }
 
-em { color: white; }
-th { background-color: green; }
+th{
+  color: white;
+  background: orange;
+}
+
